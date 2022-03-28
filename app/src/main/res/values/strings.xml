@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OrderPizza</string>
+    <string name="intr">Pizzería Juanito</string>
+    <string name="nomb">Ingrese su nombre:</string>
+    <string name="tam">Seleccione el tamaño de su pizza</string>
+    <string name="peque">Pequeña $5</string>
+    <string name="mendi">Mediana $10</string>
+    <string name="grand">Grande $15</string>
+    <string name="ingret">Seleccione ingredientes</string>
+    <string name="peper">Pepperoni $2</string>
+    <string name="jamon">Jamon $2</string>
+    <string name="carne">Carne $3</string>
+    <string name="bacon">Bacon $3</string>
+    <string name="loroco">Loroco $1</string>
+    <string name="pina">Piña $2</string>
+    <string name="pimientos">Pimientos $1</string>
+    <string name="pago">Historial</string>
+    <string name="est">Estimad@:</string>
+    <string name="re">Regresar página principal</string>
+    <string name="da">¡Gracias por preferirnos!, su orden esta siendo procesada.</string>
+
+</resources>
